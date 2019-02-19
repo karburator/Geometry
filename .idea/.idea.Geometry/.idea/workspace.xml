@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2224a450-e535-4619-be23-99c0e004e6d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Geometry.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geometry/Circle.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geometry/Constants.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geometry/Geometry.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geometry/IFigure.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geometry/ITriangle.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geometry/Triangle.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geometry/Utils.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryTest/TriangleTest.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Geometry/Circle.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
+              <folding>
+                <marker date="1550603151560" expanded="true" signature="33:481" ph="{...}" />
+                <marker date="1550603151560" expanded="true" signature="66:479" ph="{...}" />
+                <marker date="1550603151560" expanded="true" signature="196:364" ph="{...}" />
+                <marker date="1550603151560" expanded="true" signature="426:476" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GeometryTest/CircleTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="13" column="9" selection-start-line="10" selection-start-column="8" selection-end-line="13" selection-end-column="9" />
+              <folding>
+                <marker date="1550601842395" expanded="true" signature="6:52" ph="..." />
+                <marker date="1550601842395" expanded="true" signature="69:785" ph="{...}" />
+                <marker date="1550601842395" expanded="true" signature="96:783" ph="{...}" />
+                <marker date="1550601842395" expanded="true" signature="163:171" ph="{...}" />
+                <marker date="1550601842395" expanded="true" signature="212:278" ph="{...}" />
+                <marker date="1550601842395" expanded="true" signature="324:391" ph="{...}" />
+                <marker date="1550601842395" expanded="true" signature="436:522" ph="{...}" />
+                <marker date="1550601842395" expanded="true" signature="567:780" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GeometryTest/TriangleTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="60" column="26" lean-forward="true" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+              <folding>
+                <marker date="1550608222556" expanded="true" signature="6:126" ph="..." />
+                <marker date="1550608222556" expanded="true" signature="143:1701" ph="{...}" />
+                <marker date="1550608222556" expanded="true" signature="172:1699" ph="{...}" />
+                <marker date="1550608222556" expanded="true" signature="336:409" ph="{...}" />
+                <marker date="1550608222556" expanded="true" signature="452:834" ph="{...}" />
+                <marker date="1550608222556" expanded="true" signature="874:1165" ph="{...}" />
+                <marker date="1550608222556" expanded="true" signature="1211:1284" ph="{...}" />
+                <marker date="1550608222556" expanded="true" signature="1545:1696" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Geometry/ITriangle.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+              <folding>
+                <marker date="1550605660318" expanded="true" signature="18:173" ph="{...}" />
+                <marker date="1550605660318" expanded="true" signature="58:171" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Geometry/Constants.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+              <folding>
+                <marker date="1550602773147" expanded="true" signature="18:109" ph="{...}" />
+                <marker date="1550602773147" expanded="true" signature="51:107" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Geometry/Triangle.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="48" column="106" selection-start-line="48" selection-start-column="106" selection-end-line="48" selection-end-column="106" />
+              <folding>
+                <marker date="1550606874504" expanded="true" signature="33:1730" ph="{...}" />
+                <marker date="1550606874504" expanded="true" signature="70:1728" ph="{...}" />
+                <marker date="1550606874504" expanded="true" signature="243:935" ph="{...}" />
+                <marker date="1550606874504" expanded="true" signature="1172:1515" ph="{...}" />
+                <marker date="1550606874504" expanded="true" signature="1544:1725" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Geometry/Utils.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding>
+                <marker date="1550606135427" expanded="true" signature="18:148" ph="{...}" />
+                <marker date="1550606135427" expanded="true" signature="47:146" ph="{...}" />
+                <marker date="1550606135427" expanded="true" signature="97:143" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Geometry/IFigure.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="28" />
+              <folding>
+                <marker date="1550344122850" expanded="true" signature="18:76" ph="{...}" />
+                <marker date="1550344122850" expanded="true" signature="46:74" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Geometry/ITriangle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Geometry/Utils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Geometry/IFigure.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Geometry/Triangle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Geometry/Circle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GeometryTest/TriangleTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Geometry/Constants.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GeometryTest/CircleTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Geometry/Cyrcle.cs" />
+        <option value="$PROJECT_DIR$/Geometry/IFigure.cs" />
+        <option value="$PROJECT_DIR$/GeometryTest/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/Geometry/Fifure.cs" />
+        <option value="$PROJECT_DIR$/GeometryTest/CircleTest.cs" />
+        <option value="$PROJECT_DIR$/Geometry/Constants.cs" />
+        <option value="$PROJECT_DIR$/Geometry/Circle.cs" />
+        <option value="$PROJECT_DIR$/Geometry/ITriangle.cs" />
+        <option value="$PROJECT_DIR$/Geometry/Utils.cs" />
+        <option value="$PROJECT_DIR$/Geometry/Triangle.cs" />
+        <option value="$PROJECT_DIR$/GeometryTest/TriangleTest.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Geometry" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Geometry" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Geometry" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Geometry" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GeometryTest" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dictionaries/dictionaries/ru/index.dic" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="$PROJECT_DIR$/../dictionaries/dictionaries/ru" CustomDictionaries="1" CustomDictionary0="$PROJECT_DIR$/../dictionaries/dictionaries/ru/index.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2224a450-e535-4619-be23-99c0e004e6d0" name="Default Changelist" comment="" />
+      <created>1550342042551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550342042551</updated>
+      <workItem from="1550342043793" duration="2353000" />
+      <workItem from="1550345569093" duration="10804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13157000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" weight="0.32876712" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32876712" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" weight="0.53287673" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Errors In Solution" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="6" visible="true" weight="0.2536349" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="RiderUnitTests">
+        <watch expression="Math.Abs(Math.Pow(maxEdge, 2) - Math.Pow(b, 2) - Math.Pow(c, 2))&lt;Constants.CalculationAccuracy" language="C#" custom="RiderImportsList:" />
+        <watch expression="Math.Abs(Math.Pow(maxEdge, 2) - Math.Pow(b, 2) - Math.Pow(c, 2))" language="C#" custom="RiderImportsList:" />
+        <watch expression="Constants.CalculationAccuracy" language="C#" custom="RiderImportsList:" />
+        <watch expression="1e-7 +3" language="C#" custom="RiderImportsList:" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>Math.Abs(Math.Pow(maxEdge, 2) - Math.Pow(b, 2) - Math.Pow(c, 2))</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Math.Abs(Math.Pow(maxEdge, 2) - Math.Pow(b, 2) - Math.Pow(c, 2))-Constants.CalculationAccuracy</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Constants.CalculationAccuracy</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Math.Abs(Math.Pow(maxEdge, 2) - Math.Pow(b, 2) - Math.Pow(c, 2))&lt;Constants.CalculationAccuracy</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Math.Pow(maxEdge, 2) - Math.Pow(b, 2) - Math.Pow(c, 2)</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../dictionaries/dictionaries/ru/index.dic">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14027" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geometry/Fifure.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geometry/IFigure.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="28" />
+          <folding>
+            <marker date="1550344122850" expanded="true" signature="18:76" ph="{...}" />
+            <marker date="1550344122850" expanded="true" signature="46:74" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeometryTest/CircleTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="13" column="9" selection-start-line="10" selection-start-column="8" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <marker date="1550601842395" expanded="true" signature="6:52" ph="..." />
+            <marker date="1550601842395" expanded="true" signature="69:785" ph="{...}" />
+            <marker date="1550601842395" expanded="true" signature="96:783" ph="{...}" />
+            <marker date="1550601842395" expanded="true" signature="163:171" ph="{...}" />
+            <marker date="1550601842395" expanded="true" signature="212:278" ph="{...}" />
+            <marker date="1550601842395" expanded="true" signature="324:391" ph="{...}" />
+            <marker date="1550601842395" expanded="true" signature="436:522" ph="{...}" />
+            <marker date="1550601842395" expanded="true" signature="567:780" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geometry/Circle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
+          <folding>
+            <marker date="1550603151560" expanded="true" signature="33:481" ph="{...}" />
+            <marker date="1550603151560" expanded="true" signature="66:479" ph="{...}" />
+            <marker date="1550603151560" expanded="true" signature="196:364" ph="{...}" />
+            <marker date="1550603151560" expanded="true" signature="426:476" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geometry/ITriangle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <marker date="1550605660318" expanded="true" signature="18:173" ph="{...}" />
+            <marker date="1550605660318" expanded="true" signature="58:171" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geometry/Utils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <marker date="1550606135427" expanded="true" signature="18:148" ph="{...}" />
+            <marker date="1550606135427" expanded="true" signature="47:146" ph="{...}" />
+            <marker date="1550606135427" expanded="true" signature="97:143" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geometry/Constants.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding>
+            <marker date="1550602773147" expanded="true" signature="18:109" ph="{...}" />
+            <marker date="1550602773147" expanded="true" signature="51:107" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeometryTest/TriangleTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="60" column="26" lean-forward="true" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+          <folding>
+            <marker date="1550608222556" expanded="true" signature="6:126" ph="..." />
+            <marker date="1550608222556" expanded="true" signature="143:1701" ph="{...}" />
+            <marker date="1550608222556" expanded="true" signature="172:1699" ph="{...}" />
+            <marker date="1550608222556" expanded="true" signature="336:409" ph="{...}" />
+            <marker date="1550608222556" expanded="true" signature="452:834" ph="{...}" />
+            <marker date="1550608222556" expanded="true" signature="874:1165" ph="{...}" />
+            <marker date="1550608222556" expanded="true" signature="1211:1284" ph="{...}" />
+            <marker date="1550608222556" expanded="true" signature="1545:1696" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geometry/Triangle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="48" column="106" selection-start-line="48" selection-start-column="106" selection-end-line="48" selection-end-column="106" />
+          <folding>
+            <marker date="1550606874504" expanded="true" signature="33:1730" ph="{...}" />
+            <marker date="1550606874504" expanded="true" signature="70:1728" ph="{...}" />
+            <marker date="1550606874504" expanded="true" signature="243:935" ph="{...}" />
+            <marker date="1550606874504" expanded="true" signature="1172:1515" ph="{...}" />
+            <marker date="1550606874504" expanded="true" signature="1544:1725" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
